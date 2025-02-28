@@ -1,0 +1,8 @@
+langchain==0.3.18
+langchain-anthropic==0.3.7
+python-dotenv==1.0.1
+streamlit==1.41.1
+unstructured==0.16.20
+langchain-community==0.3.17
+tiktoken==0.8.0
+faiss-cpu==1.10.0

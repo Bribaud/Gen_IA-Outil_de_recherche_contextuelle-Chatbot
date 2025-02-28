@@ -5,7 +5,7 @@
 Cet instrument est une ressource d'information conviviale pensée pour simplifier la quête d'informations. 
 Les utilisateurs ont la possibilité d'entrer des URL d'articles et de poser des questions afin d'obtenir des renseignements appropriés.
 
-![Logo du projet](images/logo.png)
+![Logo du projet](img.png)
 
 ## Fonctionnalités de l'application
 
